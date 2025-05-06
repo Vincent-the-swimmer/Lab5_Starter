@@ -12,7 +12,7 @@ import {
 // isPhoneNumber
 // pass
 test('phone valid: 555-321-9876', () => {
-  expect(isPhoneNumber('555-321-9876')).toBe(4);
+  expect(isPhoneNumber('555-321-9876')).toBe(true);
 });
 test('phone valid: (800)555-1212', () => {
   expect(isPhoneNumber('(800)555-1212')).toBe(true);
