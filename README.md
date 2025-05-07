@@ -4,6 +4,7 @@ Make sure you make a PR to your own repo's main and not the class' repo!! Otherw
 Name: Vincent Gao and Joseph Kim
 
 Links to website:
+<br>
 https://vincent-the-swimmer.github.io/Lab5_Starter/expose.html
 <br>
 https://vincent-the-swimmer.github.io/Lab5_Starter/explore.html
